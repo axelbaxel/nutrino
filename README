@@ -3,3 +3,5 @@ Nutrinoprosjekt:
 må kjøre do.bat for å starte opp SerialTest.java, som er programmet som kan lese seriell informasjon sendt til PC
 
 Mulig å endre do.bat for å peke til riktige steder.
+
+SerialTest.java har mye kommentert ut kode, men beholder den der, da den kan brukes for å få fram data på andre måte, for eksempel rett med java, eller gjennom en nettside.
